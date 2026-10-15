@@ -1,0 +1,7 @@
+{
+  "output": "dist/artifact/gedung-mab.html",
+  "shell": "apps/web/artifact.shell.html",
+  "files": [
+    "apps/web/src/legacy/00-placeholder.js"
+  ]
+}
